@@ -28,7 +28,7 @@ SQL | Git | GitHub | TensorFlow (Basics)
 Web Development, Backend Logic, Basic Machine Learning  
 
 📫 How to reach me  
-yourmail@gmail.com  
+vishwakatta4u@gmail.com  
 
 🚀 Career Goal  
 To build scalable software solutions and grow as a Software Engineer in a product-based company.
